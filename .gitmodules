@@ -1,0 +1,3 @@
+[submodule "interface/src/mqtt_client"]
+	path = interface/src/mqtt_client
+	url = https://github.com/hmoyen/mqtt_client.git
