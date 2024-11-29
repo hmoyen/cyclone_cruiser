@@ -1,0 +1,15 @@
+<launch>
+  <!-- Launch the robot model (using robot_state_publisher) -->
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" output="screen">
+    <param name="robot_description" textfile="$(find your_robot_package)/urdf/robot_model.urdf"/>
+  </node>
+
+  <!-- Launch your script node that publishes path and markers -->
+
+  <!-- Launch RViz and load a configuration -->
+  <node name="rviz" pkg="rviz2" type="rviz2" output="screen">
+    <param name="use_sim_time" value="true"/>
+    <param name="display" value="true"/>
+
+  </node>
+</launch>
