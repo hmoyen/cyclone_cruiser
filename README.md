@@ -30,12 +30,12 @@ Before starting, ensure you have the following items:
 - The Cyclone Cruiser charged and turned on
 - A computer with the necessary software installed (Intel Quartus Prime, Arduino IDE, and other software related to the graphical interface described below)
 
-Once you have these items, download the FPGA firmware from the link: [Projeto_Cyclone_FPG](https://github.com/hmoyen/LabDigII/blob/main/Cyclone_Cruiser/Semana5/qar/cyclone.qar). Using Intel Quartus Prime, compile the project and program it on the DE0-CV development board via a USB-Blaster cable.
+Once you have these items, download the FPGA firmware from the link: [Projeto_Cyclone_FPGA](https://github.com/hmoyen/LabDigII/blob/main/Cyclone_Cruiser/Semana5/qar/cyclone_feira.qar). Using Intel Quartus Prime, compile the project and program it on the DE0-CV development board via a USB-Blaster cable.
 
 **IMPORTANT:** Whenever the FPGA board is turned off, it loses the programming, so it needs to be reprogrammed each time it is restarted.
 
 Once this is done, the Cyclone Cruiser should be fully programmed, as the ESP32s should already be pre-programmed. However, if needed, you can reprogram the two ESP32s with the codes available at these links:
-[ESP32_Bluetooth](https://github.com/hmoyen/LabDigII/blob/main/Cyclone_Cruiser/Semana5/esp/esp_bluetooth) and [ESP32_Interface](https://github.com/hmoyen/LabDigII/blob/main/Cyclone_Cruiser/Semana5/esp/calculate_esp.cpp). Use Arduino IDE with a Micro-USB cable to program the files on the ESP32 positioned at the center of the breadboards and at the end of the breadboards, respectively.
+[ESP32_Bluetooth](https://github.com/hmoyen/LabDigII/blob/main/Cyclone_Cruiser/Semana5/esp/esp_bluetooth) and [ESP32_Interface](https://github.com/hmoyen/LabDigII/blob/main/Cyclone_Cruiser/Semana5/esp/esp_final.cpp). Use Arduino IDE with a Micro-USB cable to program the files on the ESP32 positioned at the center of the breadboards and at the end of the breadboards, respectively.
 
 ## Connecting to the Cart
 
