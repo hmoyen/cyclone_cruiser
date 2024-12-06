@@ -1,16 +1,6 @@
 # User Manual
 ## Cyclone Cruiser
 
-![Cyclone Cruiser](images/sketch.png)
-
-**Helena Moyen**  
-**Gabriel Vilas**  
-**João Pedro Magalhães**  
-
-*Date: \today*
-
----
-
 ## Introduction
 
 Welcome to the Cyclone Cruiser user manual. This document contains the necessary instructions to connect and control the cart, as well as a description of its main features. Follow the steps to use the cart efficiently.
