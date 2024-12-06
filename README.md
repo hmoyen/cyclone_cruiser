@@ -3,7 +3,7 @@
 Watch the explanation video: [Cyclone Cruiser - Project](https://www.youtube.com/watch?v=h61BBDIsvZQ)
 
 <div style="text-align: center;">
-  <img src="/images/cyclone.gif" width="500" />
+  <img src="/images/cyclone.gif" width="800" />
 </div>
 
 
@@ -12,7 +12,7 @@ Watch the explanation video: [Cyclone Cruiser - Project](https://www.youtube.com
 Welcome to the Cyclone Cruiser user manual. This document contains the necessary instructions to connect and control the cart, as well as a description of its main features. Follow the steps to use the cart efficiently.
 
 <div style="text-align: center;">
-  <img src="/images/logo.png" width="600" />
+  <img src="/images/logo.png" width="1000" />
 </div>
 
 ## Objective
