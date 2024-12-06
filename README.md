@@ -2,13 +2,18 @@
 
 Watch the explanation video: [Cyclone Cruiser - Project](https://www.youtube.com/watch?v=h61BBDIsvZQ)
 
-![Gif](/images/cyclone.gif)
+<div style="text-align: center;">
+  <img src="/images/cyclone.gif" width="500" />
+</div>
+
 
 ## Introduction
 
 Welcome to the Cyclone Cruiser user manual. This document contains the necessary instructions to connect and control the cart, as well as a description of its main features. Follow the steps to use the cart efficiently.
 
-![Logo](/images/logo.png)
+<div style="text-align: center;">
+  <img src="/images/logo.png" width="600" />
+</div>
 
 ## Objective
 
@@ -28,7 +33,9 @@ The Cyclone Cruiser consists of:
 - An H-bridge for controlling the motor power via PWM
 - A powerbank to power the system
 
-![Schame](/images/schema.png)
+<div style="text-align: center;">
+  <img src="/images/schema.png" width="700" />
+</div>
 
 
 ## Initial Setup
@@ -160,7 +167,9 @@ To view the map being built in real-time:
 After this setup, the map will be displayed in the RViz 2 interface, allowing you to monitor the data transmitted by the robot in real-time or when simulating test data. The result can be seen in Figure \ref{fig:rviz}. If you only want to test the interface, to ensure it is working properly, run the `simulate.py` code, along with `calculate.py`.
 
 <!-- ![Simulate](/images/rviz_simulate.png) -->
-<img src="/images/rviz_simulate.png" width="300" />
+<div style="text-align: center;">
+  <img src="/images/rviz_simulate.png" width="500" />
+</div>
 
 ## Data Storage with ROSBag
 
