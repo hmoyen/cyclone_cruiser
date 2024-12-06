@@ -1,17 +1,22 @@
-# User Manual
-## Cyclone Cruiser
+# Cyclone Cruiser
 
 Watch the explanation video: [Cyclone Cruiser - Project](https://www.youtube.com/watch?v=h61BBDIsvZQ)
+
+![Gif](/images/cyclone.gif)
 
 ## Introduction
 
 Welcome to the Cyclone Cruiser user manual. This document contains the necessary instructions to connect and control the cart, as well as a description of its main features. Follow the steps to use the cart efficiently.
+
+![Logo](/images/logo.png)
 
 ## Objective
 
 The Cyclone Cruiser is a remote-controlled cart prototype for indoor mapping. Its purpose is to identify the location of obstacles around it and, based on this information, create a map of the environment. 
 
 Being remotely controlled, it can access locations that are inaccessible to humans or be controlled from a remote control cabin away from the cart. Its applications range from large-scale warehouse mapping to the recognition of unknown areas, such as caves and debris from collapses, potentially assisting search teams in rescue operations.
+
+
 
 ## Components
 
@@ -22,6 +27,9 @@ The Cyclone Cruiser consists of:
 - A free wheel and two motors connected to two torque wheels
 - An H-bridge for controlling the motor power via PWM
 - A powerbank to power the system
+
+![Schame](/images/schema.png)
+
 
 ## Initial Setup
 
