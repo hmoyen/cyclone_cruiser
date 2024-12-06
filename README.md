@@ -1,6 +1,8 @@
 # User Manual
 ## Cyclone Cruiser
 
+Watch the explanation video: [Cyclone Cruiser - Project](https://www.youtube.com/watch?v=h61BBDIsvZQ)
+
 ## Introduction
 
 Welcome to the Cyclone Cruiser user manual. This document contains the necessary instructions to connect and control the cart, as well as a description of its main features. Follow the steps to use the cart efficiently.
