@@ -159,7 +159,8 @@ To view the map being built in real-time:
 
 After this setup, the map will be displayed in the RViz 2 interface, allowing you to monitor the data transmitted by the robot in real-time or when simulating test data. The result can be seen in Figure \ref{fig:rviz}. If you only want to test the interface, to ensure it is working properly, run the `simulate.py` code, along with `calculate.py`.
 
-![Simulate](/images/rviz_simulate.png)
+<!-- ![Simulate](/images/rviz_simulate.png) -->
+<img src="/images/rviz_simulate.png" width="300" />
 
 ## Data Storage with ROSBag
 
