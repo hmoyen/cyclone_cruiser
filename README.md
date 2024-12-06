@@ -37,6 +37,7 @@ The Cyclone Cruiser consists of:
   <img src="/images/schema.png" width="700" />
 </div>
 
+*We actually powered the ESP32 with 5V, not 3.3V.
 
 ## Initial Setup
 
